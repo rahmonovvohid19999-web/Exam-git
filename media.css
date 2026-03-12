@@ -227,6 +227,23 @@
     .rox1{
         height: 500px;
     }
+    .footer{
+        flex-direction: column;
+        height: 100vh;
+        padding: 10px;
+        margin-top: 50px;
+    }
+    .lg{
+        display: none;
+    }
+    .jok{
+        display: block;
+    }
+    .dno{
+        left: 1px;
+        top: 1150vh;
+        left: 290px;
+    }
 
     
 }

@@ -486,3 +486,111 @@ select{
 .zoro{
     display: none;
 }
+.footer{
+    height: 302px;
+    background-color: #2A3034;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 70%;
+    margin: auto;
+}
+.logos{
+    width: 200px;
+    height: 100px;
+    position: relative;
+}
+.s2{
+    position: absolute;
+    top: 60px;
+    left: 150px;
+}
+.s3{
+    top: 40px;
+    left: 80px;
+    position: absolute;
+}
+.s1{
+    left: 150px;
+    top: 20px;
+    position: absolute;
+}
+.lg{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    color: white;
+    font-size: 12px;
+}
+.hicon{
+    display: flex;
+    gap: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around ;
+    align-items:start;
+    box-sizing: border-box;
+    padding-top: 50px;
+    margin-top: 50px;
+    
+}
+.footer h1{
+    color: white;
+    font-size: 23px;
+}
+select{
+    border: none;
+    background-color: transparent;
+    color: #707882;
+}
+.footer span
+{
+    color: #5EB083;
+    font-size: 23px;
+}
+.footer h2{
+    color: #707882;
+}
+.in{
+    position: relative;
+}
+.ins{
+    position: absolute;
+    top: 10px;
+    left: 12px;
+}
+.facebooc{
+    position: relative;
+
+}
+.face{
+    position: absolute;
+    top: 10px;
+    left: 16px;
+}
+.op{
+    position: relative;
+}
+.opr{
+    position: absolute;
+    top: 10px;
+    left: 13px;
+}
+.telegram
+{
+    position: relative;
+}
+.tele{
+    position: absolute;
+    top: 12px;
+    left: 13px;
+}
+.jok{
+    display: none;
+}
+.dno{
+    position: absolute;
+    top: 6500px;
+    left: 1390px;
+}
+
