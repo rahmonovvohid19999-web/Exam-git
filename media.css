@@ -122,5 +122,28 @@
     .fox5{
         margin-right: 20px;
     }
+    .pos{
+        display: none;
+    }
+    .beef{
+        text-align: start;
+        margin: 0;
+        padding: 10px;
+        
+        
+    }
+    .fox8{
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .fox6{
+        width: 300px;
+        height: 654px;
+        margin-left: 30px;
+    }
+    .btn{
+        margin-left: 30px;
+        width: 80%;
+    }
     
 }
