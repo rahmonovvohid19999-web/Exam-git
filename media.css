@@ -102,5 +102,25 @@
         margin: 0;
         padding: 10px;
     }
+    .kl{
+        display: none;
+    }
+    .cont2{
+        position: relative;
+    }
+    .lo{
+        position: absolute;
+        z-index: 1;
+        top: 300px;
+    }
+    .aion{
+        display: block;
+        position: absolute;
+        top: 305px;
+        left: 300px;
+    }
+    .fox5{
+        margin-right: 20px;
+    }
     
 }
