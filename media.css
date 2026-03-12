@@ -37,17 +37,22 @@
 
     }
     .jpg{
-       width: 400px;
+       width: 390px;
        position: absolute;
        top: 1px;
-       left: 1px;
+       left: 0px;
        background-color: white;
+       
        
     
        
     }
+    .air{
+        width: 80%;
+        width: 108px;
+    }
     .box1{
-        margin-top: 200px;
+        margin-top: 260px;
         position: relative;
         z-index: 1;
         display: flex;
@@ -66,10 +71,36 @@
     }
     .all p
     {
-        font-size:15px;
+        font-size:20px;
        
     }
     .all button{
         width: 100%;
+        
     }
+    .jordan{
+        display: none;
+    }
+    
+    .cont{
+      
+      
+    }
+    .surat{
+        width: 100%;
+        margin-top: 40px;
+    }
+    .Ellipse, .elk, .hj
+    {
+        display: none;
+    }
+    .fox1, .fox2, .fox3{
+        flex-direction: column;
+        padding: 10px;
+    }
+    .fox{
+        margin: 0;
+        padding: 10px;
+    }
+    
 }
