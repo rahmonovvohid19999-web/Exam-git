@@ -223,3 +223,163 @@ select{
     left: 100px;
     z-index: -1;
    }
+   .butn button{
+        background-color: #E7EEFA;
+        border-radius: 20px;
+        width: 148px;
+        height: 48px;
+        border: none;
+    }
+    .butn{
+        display: flex;
+        gap: 30px;
+    }
+    .cont4{
+        margin-top: 50px;
+        position: relative;
+    }
+    .fox10{
+        height: 643px;
+        width: 80%;
+        background-color: #FFFFFF;
+        border-radius: 20px;
+        margin: auto;
+        display: flex;
+        margin-top: 50px;
+        
+    }
+    .fox9{
+        margin-left: 180px;
+    }
+    .fox11{
+        width: 295px;
+        height: 643px;
+        background-color: #32333D;
+        box-sizing: border-box;
+        padding: 20px;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+    .foxer{
+        width: 221px;
+        height: 43px;
+        background-color: white;
+        border-radius: 12px;
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        box-sizing: border-box;
+        padding: 10px;
+        align-items: center;
+    }
+    .kjk{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .foxer1{
+        width: 221px;
+        height: 43px;
+        background-color: transparent;
+        display: flex;
+        align-items: center;
+        box-sizing: border-box;
+        padding: 4px;
+        gap: 10px;
+        color: #82859E;
+    }
+.foxer2{
+    width: 221px;
+    height: 54px;
+    background-color: #272831;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: whitesmoke;
+    margin-top: 200px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+.foxer3{
+    width: 221px;
+    height: 54px;
+    background-color: #272831;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: whitesmoke;
+    margin-top: 20px;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 15px
+    
+}
+.foxer6{
+    width: 250px;
+    height: 308px;
+    background-color: #E5EDFA;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 20px;
+   
+}
+.foxer7{
+    width: 250px;
+    height: 308px;
+    background-color: #FFEDDF;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 20px;
+   
+}
+.foxer8{
+    width: 250px;
+    height: 308px;
+    background-color:#EDFFF5 ;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 20px;
+   
+}
+.foxer5{
+    display: flex;
+    gap: 40px;
+}
+.fox10{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.btn2{
+    width: 103px;
+    height: 51px;background-color: #5EB083;
+    color: white;
+    border-radius: 30px;
+    border: none;
+}
+.btn3{
+    width: 103px;
+    height: 51px;background-color: black;
+    color: white;
+    border-radius: 30px;
+    border: none;
+}
+.posi{
+    width: 221px;
+    height: 37px;
+    background-color: #272831;
+    border-radius: 12px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    top: 320px;
+    left: 1200px;
+
+}
+.you{
+    display: none;
+}
