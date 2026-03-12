@@ -383,3 +383,106 @@ select{
 .you{
     display: none;
 }
+.cont5 button{
+    width: 230px;
+    height: 60px;
+    color: white;
+    background-color: #FFBB8A;
+    border-radius: 20px;
+    border: none;
+}
+.hor{
+    
+    text-align: center;
+}
+.cont5{
+    margin-top: 50px;
+}
+.horror{
+    height: 500px;
+   background-color: #f6e9df76;
+   border-radius: 20px;
+   width: 70%;
+   position: relative;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+
+.photo{
+    position: absolute;
+    left: 700px;
+    z-index: -1;
+    top: 1px;
+}
+.photo1{
+    position: absolute;
+    top: 400px;
+    left: 1050px;
+}
+.karta{
+    width: 310px;
+    height: 440px;
+    background-color: white;
+     border-radius: 20px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     
+    
+}
+.aqua{
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+}
+
+.karta span{
+    padding: 15px;background-color: #E4ECF9;
+    border-radius: 12px;
+}
+.foto:hover{
+     filter: invert(42%) sepia(98%) saturate(400%) hue-rotate(80deg);
+    color: #5EB083;
+    cursor: pointer;
+}
+.top{
+    margin: 30px 250px;
+    font-size: 40px;
+}
+.rox{
+    width: 80%;
+    background-color: white;
+    height: 77px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 20px;
+}
+.rox1{
+    width: 80%;
+    height: 210px;
+    background-color: white;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.rox1 span{
+    font-size: 30px;
+    color: #5EB083;
+}
+.cont6{
+   margin-left: 280px;
+   margin-top: 100px;
+}
+.zoro{
+    display: none;
+}
